@@ -237,12 +237,3 @@ To extend this project:
 4. **Add images** - Upload recipe images instead of using URLs
 5. **Deploy** - Host frontend on Vercel/Netlify, backend on Heroku/Railway
 
-## Notes for Instructors
-
-This is a teaching codebase designed for students to:
-- Understand how frontend and backend communicate
-- Learn REST API design principles
-- Practice CRUD operations
-- See how databases integrate with web applications
-
-The code is intentionally simple and well-commented for educational clarity.
